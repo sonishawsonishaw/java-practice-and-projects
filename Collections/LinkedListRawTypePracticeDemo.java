@@ -48,3 +48,6 @@ public class LinkedListRawTypePracticeDemo {
         System.out.println("After poll(): " + ll);
     }
 }
+
+
+

@@ -37,5 +37,6 @@ public class ArrayListRawTypePracticeDemo {
 
         // Checking if ALL elements of al are present in al2
         System.out.println(al2.containsAll(al));
+    
     }
 }
